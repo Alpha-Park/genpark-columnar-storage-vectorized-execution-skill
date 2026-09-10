@@ -1,0 +1,17 @@
+{
+  "name": "genpark-columnar-storage-vectorized-execution-skill",
+  "version": "1.0.0",
+  "description": "Columnar storage engine supporting Run-Length Encoding (RLE), column-wise chunking, vectorized filter bitmasks, and SIMD-like aggregation kernels.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "columnar-storage",
+    "olap",
+    "vectorized-execution",
+    "run-length-encoding",
+    "database-engine"
+  ],
+  "dependencies": []
+}
